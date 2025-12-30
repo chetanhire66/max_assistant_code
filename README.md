@@ -96,5 +96,5 @@ google.generativeai
 
 dotenv
 
-👨‍💻 Made by Vishal
+👨‍💻 Made by Vishal!
 Voice AI nerd. Loves automation, AIML, and low-budget innovation. Built for fun and future!
